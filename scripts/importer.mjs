@@ -1,1 +1,0 @@
-Hooks.on("ready", () => console.log("Hello World!"));

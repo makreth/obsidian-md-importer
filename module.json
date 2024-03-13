@@ -10,8 +10,8 @@
         "minimum" : "11",
         "verified" : "11"
     },
-    "esmodules" : [
-        "scripts/importer.mjs"
+    "scripts" : [
+        "mdimporter.js"
     ]
 
 }
