@@ -1,0 +1,14 @@
+{
+    "id" : "obsidian-md-importer",
+    "title" : "Obsidian .md Importer",
+    "description" : "A FoundryVTT module that imports Obsidian .md files and automatically links them. Folders become journals, and .md files organized in folders become pages.",
+    "authors" : [
+        {"name" : "makreth"}
+    ],
+    "version" : "0.0.1",
+    "compatibility" : {
+        "minimum" : "11",
+        "verified" : "11"
+    }
+
+}
